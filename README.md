@@ -1,0 +1,2 @@
+This is a 6th sem project of BUS reservation system as per VTU syllabus.
+Use codeblocks to run the file and the online compilers may not be able to generate the output since this has some operations that creates a file which is not possible online
